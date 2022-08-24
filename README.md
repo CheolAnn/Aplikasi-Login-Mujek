@@ -3,4 +3,4 @@ Sebuah aplikasi dengan fitur Login
 ## Alur Fitur Login : 
 * Memasukkan email dan password
 * Memvalidasi masukan
-* Memasukkan halaman beranda
+* Memasukkan halaman Home
